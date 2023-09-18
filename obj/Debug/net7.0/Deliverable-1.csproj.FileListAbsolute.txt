@@ -1,0 +1,14 @@
+/Users/nc3_goodluck/Desktop/Deliverable-1/bin/Debug/net7.0/Deliverable-1
+/Users/nc3_goodluck/Desktop/Deliverable-1/bin/Debug/net7.0/Deliverable-1.deps.json
+/Users/nc3_goodluck/Desktop/Deliverable-1/bin/Debug/net7.0/Deliverable-1.runtimeconfig.json
+/Users/nc3_goodluck/Desktop/Deliverable-1/bin/Debug/net7.0/Deliverable-1.dll
+/Users/nc3_goodluck/Desktop/Deliverable-1/bin/Debug/net7.0/Deliverable-1.pdb
+/Users/nc3_goodluck/Desktop/Deliverable-1/obj/Debug/net7.0/Deliverable-1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nc3_goodluck/Desktop/Deliverable-1/obj/Debug/net7.0/Deliverable-1.AssemblyInfoInputs.cache
+/Users/nc3_goodluck/Desktop/Deliverable-1/obj/Debug/net7.0/Deliverable-1.AssemblyInfo.cs
+/Users/nc3_goodluck/Desktop/Deliverable-1/obj/Debug/net7.0/Deliverable-1.csproj.CoreCompileInputs.cache
+/Users/nc3_goodluck/Desktop/Deliverable-1/obj/Debug/net7.0/Deliverable-1.dll
+/Users/nc3_goodluck/Desktop/Deliverable-1/obj/Debug/net7.0/refint/Deliverable-1.dll
+/Users/nc3_goodluck/Desktop/Deliverable-1/obj/Debug/net7.0/Deliverable-1.pdb
+/Users/nc3_goodluck/Desktop/Deliverable-1/obj/Debug/net7.0/Deliverable-1.genruntimeconfig.cache
+/Users/nc3_goodluck/Desktop/Deliverable-1/obj/Debug/net7.0/ref/Deliverable-1.dll
